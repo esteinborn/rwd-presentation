@@ -144,7 +144,7 @@ body {
     font-size: 288px; }
   .reveal .super-huge {
     font-size: 360px; }
-  .reveal .lighttext {
+  .reveal .lighttext, .reveal a.lighttext {
     color: #fdf6e3; }
   .reveal .bs-docs-booticon {
     display: block;

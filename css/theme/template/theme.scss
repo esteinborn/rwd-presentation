@@ -187,7 +187,8 @@ body {
         font-size: $mainFontSize * 10;
     }
 
-    .lighttext {
+    .lighttext,
+    a.lighttext {
         color: $backgroundColor;
     }
 
